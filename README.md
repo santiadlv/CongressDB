@@ -7,7 +7,7 @@ Hi! Just a few things before you continue:
 - The report and documentation on the project is available on both .doc and .pdf for versatility.
 - The ER diagram of the project is also available in various formats for versatility: .pdf and .drawio
 
-If there's any questions, don't hesitate to let us know.
+If there's any questions, let us know so we can help you.
 
 Sincerely,
 - Santiago, Karen and Alejandro.
